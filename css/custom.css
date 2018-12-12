@@ -1,0 +1,18 @@
+.this_row {
+    margin: 0 -5%;
+}
+
+
+#team h5 {
+    font-size: 16px;
+
+}
+
+#team p {
+    font-size: 12px;
+    line-height: 1.2em;
+
+}
+
+.footer-global p { font-size: 14px !important;}
+.footer-global a { font-size: 14px !important;}
