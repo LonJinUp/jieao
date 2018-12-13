@@ -767,7 +767,7 @@ ol.list-default > li
 {
     position: absolute;
     z-index: 100;
-    top: 50%;
+    top: 40%;
 
     width: 100%;
     height: auto;
@@ -1123,6 +1123,9 @@ ol.list-default > li
         width: 80%;
         height: 100%;
         margin: 0 auto;
+    }
+    .biaoti{
+        font-size: 30px;
     }
 
 
