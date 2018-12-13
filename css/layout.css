@@ -493,9 +493,15 @@ ol.list-default > li
     }
     .service-2{
         display:none;
+        width: 80%;
+        height: 100%;
+        margin: 0 auto;
     }
     .service-1{
         display:block;
+        width: 80%;
+        height: 100%;
+        margin: 0 auto;
     }
 
     .navigation-main .container
@@ -524,9 +530,15 @@ ol.list-default > li
     }
     .service-2{
         display:none;
+        width: 80%;
+        height: 100%;
+        margin: 0 auto;
     }
     .service-1{
         display:block;
+        width: 80%;
+        height: 100%;
+        margin: 0 auto;
     }
 }
 
@@ -538,9 +550,15 @@ ol.list-default > li
     }
     .service-2{
         display:none;
+        width: 80%;
+        height: 100%;
+        margin: 0 auto;
     }
     .service-1{
         display:block;
+        width: 80%;
+        height: 100%;
+        margin: 0 auto;
     }
 
     .navbar-header
@@ -665,9 +683,15 @@ ol.list-default > li
     }
     .service-2{
         display:none;
+        width: 80%;
+        height: 100%;
+        margin: 0 auto;
     }
     .service-1{
         display:block;
+        width: 80%;
+        height: 100%;
+        margin: 0 auto;
     }
 }
 
@@ -681,9 +705,15 @@ ol.list-default > li
     }
     .service-2{
         display:none;
+        width: 80%;
+        height: 100%;
+        margin: 0 auto;
     }
     .service-1{
         display:block;
+        width: 80%;
+        height: 100%;
+        margin: 0 auto;
     }
 }
 
@@ -1082,11 +1112,17 @@ ol.list-default > li
 
 @media (max-width: 500px)
 {
-    .service-1{
-        display: none;
-    }
     .service-2{
         display:block;
+        width: 80%;
+        height: 100%;
+        margin: 0 auto;
+    }
+    .service-1{
+        display:none;
+        width: 80%;
+        height: 100%;
+        margin: 0 auto;
     }
 
 
