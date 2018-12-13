@@ -491,6 +491,12 @@ ol.list-default > li
     {
         padding: 0 10px;
     }
+    .service-2{
+        display:none;
+    }
+    .service-1{
+        display:block;
+    }
 
     .navigation-main .container
     {
@@ -516,6 +522,12 @@ ol.list-default > li
     {
         display: block;
     }
+    .service-2{
+        display:none;
+    }
+    .service-1{
+        display:block;
+    }
 }
 
 @media (max-width: 840px)
@@ -523,6 +535,12 @@ ol.list-default > li
     .navigation-main
     {
         height: 60px;
+    }
+    .service-2{
+        display:none;
+    }
+    .service-1{
+        display:block;
     }
 
     .navbar-header
@@ -645,6 +663,12 @@ ol.list-default > li
     {
         max-width: 120px;
     }
+    .service-2{
+        display:none;
+    }
+    .service-1{
+        display:block;
+    }
 }
 
 @media (max-height: 600px) and (max-width: 840px)
@@ -654,6 +678,12 @@ ol.list-default > li
     .navigation-main ul li .dropdown-menu a
     {
         line-height: 34px !important;
+    }
+    .service-2{
+        display:none;
+    }
+    .service-1{
+        display:block;
     }
 }
 
@@ -1052,6 +1082,14 @@ ol.list-default > li
 
 @media (max-width: 500px)
 {
+    .service-1{
+        display: none;
+    }
+    .service-2{
+        display:block;
+    }
+
+
     .padding-top-10
     {
         padding-top: 5px;

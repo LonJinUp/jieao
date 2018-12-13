@@ -239,10 +239,9 @@
     font-size: 100px;
     font-weight: 700;
     line-height: 1.16em;
-
+    margin-bottom: 30px;
     display: inline-block;
 
-    margin-bottom: 0;
     padding: 20px 0;
 
     text-align: center;
