@@ -248,7 +248,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 .block-about-1 h3
 {
     font-weight: 300;
-    line-height: 1.2em;
+    line-height: 1.6em;
 
     margin-top: 0;
     margin-bottom: -.5em;
@@ -612,7 +612,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 .block-work-1 .work-grid a .cbp-caption-activeWrap h5
 {
-    font-weight: 400;
+    font-weight: 800;
 
     margin-bottom: .35em;
 
