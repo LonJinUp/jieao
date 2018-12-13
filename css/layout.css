@@ -1113,6 +1113,10 @@ ol.list-default > li
 
 @media (max-width: 500px)
 {
+
+    .mar_title{
+        margin-top: 40px;
+    }
     .service-2{
         display:block;
         width: 80%;
@@ -1152,7 +1156,7 @@ ol.list-default > li
 
     .padding-top-50
     {
-        padding-top: 25px;
+        padding-top: 6px;
     }
 
     .padding-top-60

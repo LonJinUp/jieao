@@ -55,7 +55,7 @@ section .header
 
     width: 100%;
     margin: 0;
-    padding: 0 0 36px 0;
+    padding: 0 0 10px 0;
 }
 
 section .header h1,
@@ -2618,9 +2618,9 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
     .block-footer-1 img
     {
-        /*max-width: 170px;*/
+        max-width: 100%;
         margin-top: 10px;
-        margin-bottom: 8px;
+        margin-bottom: 18px;
     }
     .flex-box{
         display: flex;
@@ -3205,6 +3205,9 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after
 
 @media (max-width: 480px)
 {
+    .jieshao{
+        font-size: 16px;
+    }
     #popup-close-button-1
     {
         top: 0;
